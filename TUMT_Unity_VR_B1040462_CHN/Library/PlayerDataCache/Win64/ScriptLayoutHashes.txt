@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/User/Desktop/TUMT_Unity_VR_B1040462/TUMT_Unity_VR_B1040462.exe
+C:/Users/User/Desktop/TUMT_Unity_VR_B1040462_CHN/exe/TUMT_Unity_VR_B1040462.exe
 SceneListBegin?
 Assets/Scenes/Demo.unity
 SceneListEnd?
